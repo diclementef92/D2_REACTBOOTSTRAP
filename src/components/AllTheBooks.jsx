@@ -1,6 +1,5 @@
 import { Component } from "react";
-import { Nav } from "react-bootstrap";
-import scifiBooks from "../books/scifi.json";
+import scifiBooks from "../books/history.json";
 
 class AllTheBooks extends Component {
   render() {
